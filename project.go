@@ -2,5 +2,5 @@ package main
 
 import "fmt"
 func main(){
-	fmt.Println("kj[")
+	fmt.Println("Hello")
 }
